@@ -1,4 +1,4 @@
-# dresserhouse-co-uk
+# Dresser House
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,97 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-dresserhouse-co-uk is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://dresserhouse.co.uk/
+Dresser House is a UK‑based retailer specialising in chests of drawers, bedside chests, tallboys and related bedroom furniture. The online store offers a curated range of products from multiple brands, providing detailed specifications, pricing and stock information directly sourced from suppliers. Customers can browse categories, read buying guides such as “How to choose chests of drawers”, and purchase items with delivery across the United Kingdom. The site emphasizes comparison of features and values to help shoppers make informed decisions.
+
+**Areas:** Company · Retail · Furniture · UK · E-commerce
+
+## Dresser House on APIs.io
+
+Everything profiled for Dresser House is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/dresserhouse-co-uk/](https://apis.io/providers/dresserhouse-co-uk/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Dresser House API](https://apis.io/apis/dresserhouse-co-uk/dresser-house-api/) — Chests of drawers catalogue API
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Dresser House API Rules](https://apis.io/rules/dresserhouse-co-uk/dresserhouse-co-uk-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Dresserhouse Co Uk Domain Security](https://apis.io/security/dresserhouse-co-uk/dresserhouse-co-uk-domain-security/)
+- [Dresserhouse Co Uk Vulnerability Disclosure](https://apis.io/security/dresserhouse-co-uk/dresserhouse-co-uk-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://dresserhouse.co.uk/)
+- [Documentation](https://dresserhouse.co.uk/guides/how-to-choose-chests-of-drawers)
+- [Security](https://dresserhouse.co.uk/terms)
+- [Terms of service](https://dresserhouse.co.uk/legal/terms)
+- [Privacy policy](https://dresserhouse.co.uk/legal/privacy)
+
+## API Evangelist rating
+
+**Kin Score 25.9** — emerging · rubric 0.27.0 · scored 2026-11-06
+
+| Facet | Score |
+|---|---|
+| Discoverability | 61.7 |
+| Contract quality | 0.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 16.0 |
+| Access clarity | 21.1 |
+
+**Agent readiness 9.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/dresserhouse-co-uk/](https://apis.io/providers/dresserhouse-co-uk/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Dresser House: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/dresserhouse-co-uk/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
